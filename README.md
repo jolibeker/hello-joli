@@ -1,2 +1,2 @@
 # hello-joli
-learning 
+Hi Humans! 
